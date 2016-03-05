@@ -118,8 +118,8 @@ NAVIGATION OPACITY
   height:100%;
   top:0;
   z-index:9999;
-  opacity: .75;
-  background:black;
+  background: black;
+  opacity:.80;
 }
 
 ul.menu-fullscreen{
